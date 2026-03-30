@@ -1,16 +1,5 @@
 # Technical Drawing Comprehensive Mastery Guide
 
-## Complete English Edition — Expanded Reference Manual
-
-> **Original Source:** Translated and organized from the French course document "Initiation au dessin technique – Partie A"
-> 
-> **About This Expanded Edition:** This document has been expanded approximately one hundred times from the original source material. Every section and concept has been thoroughly examined with deep, comprehensive explanations covering underlying theory, purpose, and relevant nuances. Each major topic includes multiple detailed illustrative examples demonstrating real-world usage, edge cases, and variations, complete with step-by-step walkthroughs showing the entire process from input to final output. Supplementary subsections including background information, common pitfalls, best practices, and references to further reading provide a complete, self-contained resource.
-> 
-> **Intended Audience:** Engineering students, CAD technicians, manufacturing engineers, mechanical designers, and anyone seeking to master the art and science of technical drawing and engineering graphics.
-> 
-> **Standards Referenced:** ISO 128 (Technical drawings — General principles of representation), ISO 5455 (Technical drawings — Scales), ISO 5457 (Technical drawings — Sizes and layout of drawing sheets), ISO 7200 (Title blocks), ASME Y14.5-2018 (Dimensioning and Tolerancing), DIN 406 (Technical drawings — Terms and types), BS 308 (Engineering drawing practice)
-
----
 
 # Table of Contents
 
